@@ -1,1 +1,2 @@
 # odin-recipes
+This is the recipes project from The Odin project introductory course. I'm expected to create a recipe book using HTML. The homepage will display a list of recipes with links to the recipe pages, each one showing the ingredients, the steps and some images. Repository committed also on GitHub.
