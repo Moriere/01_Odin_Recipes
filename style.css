@@ -8,20 +8,26 @@ h3  {
     text-align: left;
 }
 
-img {
+h1,
+h3  {
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img,
+.recipe-img {
     height: auto;
-    width: 225px;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 
+img {
+    width: 225px;
+}
+
 .recipe-img {
-    height: auto;
     width: 400px;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
 }
 
 .description   {
@@ -32,25 +38,19 @@ img {
 }
 
 #link  {
-    color: rgb(104, 104, 104);
+    color: rgb(133, 133, 133);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     text-align: center;
 }
 
-h1.header,
-h3.header  {
-    color: lightskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 .list    {
-    color: rgb(104, 104, 104);
+    color: rgb(133, 133, 133);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     text-align: left;
 }
 
-.list.em  {
-    color: rgb(107, 107, 107);
+.list .em  {
+    color: rgb(117, 117, 117);
 }
